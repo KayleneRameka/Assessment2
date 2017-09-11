@@ -22,17 +22,39 @@ namespace Assessment2.Controllers
             return View();
         }
 
+        public IActionResult Portfolio()
+        {
+            ViewData["Message"] = "Your description";
+            ViewData["Title"] = "Portfolio";
+           return View();
+        }
+
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
             ViewData["Title"] = "Contact";
-
             return View();
+        }
+
+        public IActionResult Blog()
+        {
+           ViewData["Message"] = "description";
+           ViewData["Title"] = "Blog"; 
+           return View();
+        }
+
+        public IActionResult Media()
+        {
+           ViewData["Message"] = "Description";
+           ViewData["Title"] = "Media Gallery"; 
+           return View();
         }
 
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        ia
     }
 }
