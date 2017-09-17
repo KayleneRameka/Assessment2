@@ -1,0 +1,4 @@
+C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.deps.json
+C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.json
+C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.dev.json
+C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.AssemblyInfo.cs
