@@ -1,0 +1,10 @@
+C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.deps.json
+C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.json
+C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.dev.json
+C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.dll
+C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.pdb
+C:\Users\10006663\Desktop\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\10006663\Desktop\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\10006663\Desktop\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.AssemblyInfo.cs
+C:\Users\10006663\Desktop\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.dll
+C:\Users\10006663\Desktop\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.pdb
