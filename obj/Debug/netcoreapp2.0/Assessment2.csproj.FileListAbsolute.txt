@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.deps.json
 C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.json
 C:\Users\10006663\Desktop\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.dev.json
@@ -14,4 +14,3 @@ C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\bin\Debug\netcoreapp2.0\Ass
 C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.json
 C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\bin\Debug\netcoreapp2.0\Assessment2.runtimeconfig.dev.json
 C:\Users\Rameka Whanau\Desktop\Computing\Assessment2\obj\Debug\netcoreapp2.0\Assessment2.AssemblyInfo.cs
->>>>>>> 8a993ae8460494b9c51246888f0ce70d18183f56
